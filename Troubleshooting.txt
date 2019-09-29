@@ -1,0 +1,31 @@
+PROBLEM: Talia has issues moving in any direction or is constantly crouching.
+SOLUTION: Having controllers plugged in when starting up the game can cause this issue. Try unplugging them and then starting the game up, then plugging them in.
+
+PROBLEM: The game doesn't seem to load.
+SOLUTION: Antivirus software can trigger false positives on the game, or take an exceptionally long time to scan the files being unpacked when running the .exe; try disabling your antivirus and then running the game.
+
+PROBLEM: Sound doesn't play.
+SOLUTION: Make sure to press the ESC key and check in the options menu for sound being on; if it's on properly, there may be a rare issue with some sound cards, which we'll be fixing in the future, but it's unfortunately not possible to fix at this time.
+
+PROBLEM: Sound used to play, but doesn't anymore.
+SOLUTION: Start the game up, press ESC to access the options while in-game, then toggle the "mute all" selection under Audio on and then off, then restart the game; this should fix the problem.
+
+PROBLEM: I'm using OSX and I want to play the game.
+SOLUTION: While there may be some compatibility issues, here's the easiest way to play it on OSX;
+ 1) Download Wine and WineBottler
+ 2) Download the zip file containing the latest demo
+ 3) Open .exe file [WineBottler should open automatically at this point] 
+ 4) Select the option to create simple OS X app
+ 5) In WineBottler "Advance" screen make sure that “Copy file (Program) to app bundle” is selected and install
+ 6) This should create an app that will open through Wine automatically
+NOTE: Be sure to use system version XP in WineBottler.
+
+PROBLEM: I don't like the control scheme.
+SOLUTION: You can press ESC at any time to remap the controls to a controller or anything else on your keyboard.
+
+PROBLEM: I don't know what to do in the game.
+SOLUTION: Your goal is to reach the end of each of the 6 paths in the demo, and then hack the "Milk Chambers" at the end of them by defeating all the enemies at the end room of each path and then walking to said Milk Chamber. Once you've done that, back at the hubmap with the Save Pad, you'll be able to fight the boss by going into the MainFrame computer doorway to your right, with the six lights.
+
+----------------------
+
+If you're still having issues, please feel free to email us at hentaiwriter@gmail.com or leave us a message on any of the social media links in the README.txt file, and we'll try to fix your problem ASAP!
